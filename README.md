@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajay Kumar Shah  
-- 👀 I’m interested in Power BI
-- 🌱 I’m currently learning SQL,Python,DAX, ETL, Power BI
+- 👀 I’m working as a Data Processing Administrator in SIMS LIFECYCLE SERVICES
+- 🌱 I’m currently using EXCEL, SQL and Power BI as daily tools.
 - 📫 How to reach me iajayks@gmail.com
 
 <!---
